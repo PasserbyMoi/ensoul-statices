@@ -29,8 +29,8 @@ coverage
 *.sln
 *.sw?
 
-package-lock.json
-yarn.lock
+# package-lock.json
+# yarn.lock
 
 .VSCodeCounter
 /vite.config.ts.timestamp-*.mjs
