@@ -34,3 +34,5 @@ yarn.lock
 
 .VSCodeCounter
 /vite.config.ts.timestamp-*.mjs
+
+# /docs/.vitepress/cache

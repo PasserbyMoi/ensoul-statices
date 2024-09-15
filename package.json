@@ -7,5 +7,5 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs --port 8080"
   },
-  "packageManager": "^pnpm@9.6.3"
+  "packageManager": "pnpm@9.3.0"
 }
