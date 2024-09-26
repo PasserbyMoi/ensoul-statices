@@ -2,11 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
-  base: "/ensoul-statices",
+  title: "文档中心",
+  description: "一个文档安置地",
+  base: "/",
   sitemap: {
-    hostname: 'https://example.com',
+    hostname: 'https://docs.ensoul.club',
     lastmodDateOnly: false
   },
   locales: {
